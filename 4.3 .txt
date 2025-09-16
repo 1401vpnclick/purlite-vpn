@@ -1,1 +1,1 @@
-.
+{"title":"کاربر گرامی ","message":"جهت استفاده از این بزنامه و دسترسی به برنامه های مود شده حتما عضو کانال تلگرام ما شوید ❤️","dismissable":false,"dismissTxt":"رد","okTxt":"👈عضویت در  تلگرام👉","okUrl":"tg://join?invite=ajgm9AAnEvM4Nzk0","status":"ok"}
